@@ -1,0 +1,23 @@
+{
+  "name": "nca-parser",
+  "version": "0.0.0",
+  "description": "nca-parser ==========",
+  "main": "index.js",
+  "dependencies": {
+    "jsdom": "^2.0.0",
+    "request": "^2.51.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tnRaro/nca-parser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tnRaro/nca-parser/issues"
+  }
+}
